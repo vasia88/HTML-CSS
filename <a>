@@ -1,2 +1,6 @@
 <p>See more cat photos in our gallery.</p>
       <a href='https://freecatphotoapp.com'></a>
+
+
+     <p>See more <a href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+      <a href="https://freecatphotoapp.com">link to cat pictures</a>

@@ -5,7 +5,13 @@
         <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
-        <h2>Dog Photos</h2>
+        <h2>Cat Lists</h2>
+        <h3>Things cats love:</h3>
+         <ul>
+          <li>cat nip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
         </section>
       
     </main>

@@ -31,7 +31,8 @@
         <h2>Cat Form</h2>
         <form action="https://freecatphotoapp.com/submit-cat-photo">
           <input type="text" name="catphotourl" placeholder="cat photo URL" requied>
-          <button>Submit</button>
+           <button type="Submit">
+          </button>
         </form>
       
     </main>

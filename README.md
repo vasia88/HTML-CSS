@@ -27,6 +27,11 @@
             <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
         </figure>
         </section>
+         <section>
+        <h2>Cat Form</h2>
+        <form action="https://freecatphotoapp.com/submit-cat-photo">
+          <input type="text">
+        </form>
       
     </main>
          
